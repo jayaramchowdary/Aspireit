@@ -1,0 +1,12 @@
+version: '3.8'
+
+services:
+  app:
+    build: .
+    container_name: dsa_app
+    networks:
+      - dsa_network
+
+networks:
+  dsa_network:
+    driver: bridge
