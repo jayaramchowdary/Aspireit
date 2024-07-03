@@ -61,5 +61,5 @@ This project contains a solution to a DSA problem involving finding the maximum 
 
 For any questions or support, please contact:
 
-- Full Name: Your Name
-- Email: your.email@example.com
+- Full Name: Jayaramakrishna Puvvada
+- Email: jayaramakrishnapuvvada@gmail.com
